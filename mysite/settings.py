@@ -25,7 +25,7 @@ SECRET_KEY = '5p3(uo=*%q)$pj+b!^-#gx)e8kai(p^mam&#!@m9xu%u6n32d#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["dashach.pythonanywhere.com"]
+ALLOWED_HOSTS = ["dashach.pythonanywhere.com", "127.0.0.1"]
 
 
 # Application definition
